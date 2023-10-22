@@ -4,6 +4,18 @@
 
 # Teslo API
 
+1. Clonar el proyecto 
+```
+git clone "...."
+```
+2. Instalar los paquetes
+```
+yarn install
+```
+3. Clonar el archivo ".env.template" y renombrarlo como ".env"
+4. Cambiar las variables de entorno
+5. Levantar la base de datos
+
 1. Levantar la base de datos
 ```
 docker-compose up -d
