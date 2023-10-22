@@ -6,4 +6,5 @@ import { Module } from '@nestjs/common';
     controllers:[],
     exports:[]
 })
+
 export class CommonModule{}
